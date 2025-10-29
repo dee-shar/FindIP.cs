@@ -2,7 +2,7 @@
 Web-API for [findip.net](https://findip.net) an website that provides a solution to identify country, region, city, latitude &amp; longitude and etc
 
 ## Example
-```bash
+```cs
 using FindIPApi;
 
 namespace Application
